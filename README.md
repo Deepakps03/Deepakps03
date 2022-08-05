@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deepakps03
 - 👀 I’m interested in App Development 
 - 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with a girl who loves coding and spotify
 - 📫 How to reach me Instagram@deepak_linux
 
 <!---
